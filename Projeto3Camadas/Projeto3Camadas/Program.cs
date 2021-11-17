@@ -16,7 +16,7 @@ namespace Projeto3Camadas
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Ui.Frm_Medicamentos());
+            Application.Run(new Ui.Frm_Login());
         }
     }
 }

@@ -21,3 +21,4 @@ C:\Users\Michelle Belli\Desktop\COTEMIG\POO\projetoEmCamadas\Projeto3Camadas\Pro
 C:\Users\Michelle Belli\Desktop\COTEMIG\POO\projetoEmCamadas\Projeto3Camadas\Projeto3Camadas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Michelle Belli\Desktop\COTEMIG\POO\projetoEmCamadas\Projeto3Camadas\Projeto3Camadas\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Michelle Belli\Desktop\COTEMIG\POO\projetoEmCamadas\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.csproj.CopyComplete
+C:\Users\Michelle Belli\Desktop\COTEMIG\POO\projetoEmCamadas\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.Ui.Frm_Login.resources

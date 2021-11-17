@@ -129,6 +129,7 @@ namespace Projeto3Camadas.Ui
             this.dgvMedicamentos.RowTemplate.Height = 28;
             this.dgvMedicamentos.Size = new System.Drawing.Size(829, 232);
             this.dgvMedicamentos.TabIndex = 15;
+            this.dgvMedicamentos.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvMedicamentos_CellClick_1);
             // 
             // Frm_Medicamentos
             // 
@@ -147,6 +148,7 @@ namespace Projeto3Camadas.Ui
             this.Controls.Add(this.lbl_id);
             this.Name = "Frm_Medicamentos";
             this.Text = "Cadastro de Medicamento";
+            this.Load += new System.EventHandler(this.Frm_Medicamentos_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvMedicamentos)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
