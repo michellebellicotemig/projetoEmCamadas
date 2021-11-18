@@ -106,6 +106,7 @@ namespace Projeto3Camadas.Ui
             this.lnkLabEsqueceu.TabIndex = 20;
             this.lnkLabEsqueceu.TabStop = true;
             this.lnkLabEsqueceu.Text = "Esqueceu sua senha? ";
+            this.lnkLabEsqueceu.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lnkLabEsqueceu_LinkClicked);
             // 
             // Frm_Login
             // 
